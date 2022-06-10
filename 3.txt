@@ -1,0 +1,16 @@
+13579
+02468
+/c/Users/Wojciech/Desktop/Git
+1.txt
+2.txt
+3.txt
+4.txt
+Zabawa3.sh*
+dupa/
+total 5
+-rw-r--r-- 1 Wojciech 197121   6 Jun 10 22:03 1.txt
+-rw-r--r-- 1 Wojciech 197121   6 Jun 10 22:03 2.txt
+-rw-r--r-- 1 Wojciech 197121  84 Jun 10 22:03 3.txt
+-rw-r--r-- 1 Wojciech 197121 449 Jun 10 22:03 4.txt
+-rwxr-xr-x 1 Wojciech 197121 439 Jun 10 22:03 Zabawa3.sh*
+drwxr-xr-x 1 Wojciech 197121   0 Jun 10 21:51 dupa/
